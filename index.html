@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Simulated Chronicles</title>
+  <meta name="description" content="A fantasy library of epic stories told from simulated worlds. Read the chronicles, or add your own.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230d1410'/%3E%3Cg fill='none' stroke='%23d6b25e' stroke-width='4' stroke-linecap='round'%3E%3Cpath d='M22 8 Q56 32 22 56'/%3E%3Cpath d='M22 8 V56' stroke-width='2'/%3E%3Cpath d='M10 32 H50'/%3E%3C/g%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip" href="#view">Skip to content</a>
+
+  <header class="topbar" id="topbar">
+    <a class="brand" href="#/" aria-label="The Simulated Chronicles, home">
+      <span class="brand-sigil" aria-hidden="true"></span>
+      <span class="brand-text"><span class="brand-small">The</span> Simulated Chronicles</span>
+    </a>
+    <nav class="topnav" aria-label="Main">
+      <a href="#/" class="navlink" data-nav="library">Library</a>
+      <a href="#/about" class="navlink" data-nav="about">About</a>
+      <button class="btn btn-gold" id="openUpload" type="button">
+        <span aria-hidden="true">✦</span> Add a Chronicle
+      </button>
+    </nav>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+
+  <footer class="footer">
+    <div class="rule" aria-hidden="true"><span>◆</span></div>
+    <p>Stories born from simulated worlds. Pixel art drawn in the style of WorldBox.</p>
+    <p class="fine">Uploads stay in your browser. See the README to add a story to the library for everyone.</p>
+  </footer>
+
+  <dialog id="uploadDialog" class="dialog" aria-labelledby="uploadTitle">
+    <form method="dialog" id="uploadForm" class="upload-form" novalidate>
+      <div class="dialog-head">
+        <h2 id="uploadTitle">Add a Chronicle</h2>
+        <button type="button" class="icon-btn" id="closeUpload" aria-label="Close">✕</button>
+      </div>
+
+      <label class="drop" id="drop" for="fileInput">
+        <input type="file" id="fileInput" accept=".docx,.txt,.md,.markdown,.html,.htm">
+        <span class="drop-rune" aria-hidden="true">📜</span>
+        <span class="drop-text"><strong>Drop a story here</strong> or click to choose<br>
+          <small>Word (.docx), text, Markdown or HTML</small></span>
+        <span class="drop-file" id="dropFile" hidden></span>
+      </label>
+
+      <div class="field">
+        <label for="fTitle">Title</label>
+        <input id="fTitle" type="text" maxlength="120" required placeholder="The Saga of…">
+      </div>
+      <div class="field">
+        <label for="fTag">A line that sells it</label>
+        <input id="fTag" type="text" maxlength="200" placeholder="Seven hundred years of war, snow and ash.">
+      </div>
+      <div class="row2">
+        <div class="field">
+          <label for="fSim">Simulation</label>
+          <input id="fSim" type="text" maxlength="80" placeholder="WorldBox, Dwarf Fortress…">
+        </div>
+        <div class="field">
+          <label for="fYears">Span</label>
+          <input id="fYears" type="text" maxlength="40" placeholder="Year 1 – 300">
+        </div>
+      </div>
+
+      <fieldset class="field">
+        <legend>Emblem</legend>
+        <div class="emblem-picker" id="emblemPicker" role="radiogroup" aria-label="Emblem"></div>
+      </fieldset>
+
+      <fieldset class="field">
+        <legend>Peoples in the cover art</legend>
+        <div class="chip-picker" id="peoplePicker"></div>
+      </fieldset>
+
+      <p class="form-msg" id="formMsg" role="status" aria-live="polite"></p>
+      <div class="dialog-foot">
+        <button type="button" class="btn" id="cancelUpload">Cancel</button>
+        <button type="submit" class="btn btn-gold" id="saveUpload">Add to Library</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="https://cdn.jsdelivr.net/npm/mammoth@1.6.0/mammoth.browser.min.js"></script>
+  <script src="js/icons.js"></script>
+  <script src="js/pixel.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

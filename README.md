@@ -67,7 +67,7 @@ node tools/build-stories.js saga-of-metallica stories/source/p1.txt stories/sour
 
 ## About the art
 
-The pixel terrain, villages and creatures are drawn procedurally in `js/pixel.js`, in
+The pixel terrain, villages and creatures are drawn procedurally in `js/worldart.js`, in
 the style of WorldBox. They are original to this repo and not WorldBox assets. If you
 would rather use your own screenshots or exports from the game, put them in `assets/`
 and show them in `buildHero` / `buildCard` in `js/app.js`.
@@ -82,7 +82,7 @@ Repo **Settings → Pages**, choose the branch and the root folder. The site has
 index.html          page shell and upload dialog
 css/style.css       fantasy theme
 js/app.js           library, reader, upload parsing and sanitising
-js/pixel.js         WorldBox-style pixel world and creature art
+js/worldart.js      WorldBox-style pixel world and creature art
 js/icons.js         SVG emblems
 stories/            library.json, story HTML, source markup, Word files
 tools/              build-stories.js, import-bundle.js

@@ -1,6 +1,18 @@
 (function () {
   'use strict';
 
+  // If an art script is blocked (ad blockers, odd servers), keep the site usable without it.
+  var missing = [];
+  if (!window.Icons) {
+    missing.push('js/icons.js');
+    window.Icons = { ICONS: {}, names: [], svg: function () { return ''; } };
+  }
+  if (!window.Pixel) {
+    missing.push('js/worldart.js');
+    var blank = function () { return document.createElement('canvas'); };
+    window.Pixel = { drawWorld: function () { return []; }, drawCover: function () {}, wander: function () {}, drawSprite: function () {}, spriteCanvas: blank, SPRITES: {} };
+  }
+
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var view = $('#view');
   var LS_UPLOADS = 'sbs.uploads.v1';
@@ -490,4 +502,7 @@
 
   window.addEventListener('hashchange', route);
   route();
+  if (missing.length) {
+    toast('Art failed to load (' + missing.join(', ') + '). An ad blocker may be blocking it. Reading still works.');
+  }
 })();

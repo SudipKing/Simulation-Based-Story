@@ -1,0 +1,17 @@
+{
+  "stories": [
+    {
+      "id": "saga-of-metallica",
+      "title": "The Saga of Metallica and the Shattered Realm",
+      "tagline": "Elves, men, dwarves, orcs, cats and crocodiles: seven hundred and twenty-five years of war, snow, pumpkins and ash.",
+      "icon": "bow",
+      "simulation": "WorldBox: Elves vs Humans",
+      "years": "Year 1 – 725",
+      "factions": ["elf", "human", "dwarf", "orc", "croc", "cat"],
+      "seed": 725,
+      "words": 21381,
+      "file": "saga-of-metallica.html",
+      "download": "The_Saga_of_Metallica_and_the_Shattered_Realm.docx"
+    }
+  ]
+}

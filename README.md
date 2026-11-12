@@ -9,6 +9,7 @@ and opens into a parchment reader with chapters, themes and remembered progress.
 | Emblem | Story | Simulation | Span |
 | --- | --- | --- | --- |
 | Bow | *The Saga of Metallica and the Shattered Realm* | WorldBox: Elves vs Humans | Year 1 – 725 |
+| Crown | *The Saga of Angelica and the Sovereign Bridge* | WorldBox: Unicorns vs Humans | Year 0 – 318 |
 
 ## Run it
 
@@ -55,7 +56,7 @@ Or write the entry by hand in `stories/library.json`:
 ```
 
 Emblems: `bow sword crown shield tower tree skull flame anvil scroll dragon moon`.
-Peoples for cover art: `elf human dwarf orc croc cat skeleton pumpkin`.
+Peoples for cover art: `elf human dwarf orc croc cat skeleton pumpkin unicorn`.
 
 ### From the story markup
 
@@ -63,6 +64,12 @@ The saga was written in a small markup (`stories/source/`) and converted with:
 
 ```bash
 node tools/build-stories.js saga-of-metallica stories/source/p1.txt stories/source/p2.txt stories/source/p3.txt stories/source/p4.txt
+```
+
+The Angelica saga is built the same way from `stories/source/angelica/`:
+
+```bash
+node tools/build-stories.js saga-of-angelica stories/source/angelica/p1.txt stories/source/angelica/p2.txt stories/source/angelica/p3.txt stories/source/angelica/p4.txt stories/source/angelica/p5.txt
 ```
 
 ## About the art

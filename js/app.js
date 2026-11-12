@@ -18,7 +18,7 @@
   var LS_UPLOADS = 'sbs.uploads.v1';
   var LS_READER = 'sbs.reader.v1';
   var LS_POS = 'sbs.pos.';
-  var PEOPLE = ['elf', 'human', 'dwarf', 'orc', 'croc', 'cat', 'skeleton', 'pumpkin'];
+  var PEOPLE = ['elf', 'human', 'dwarf', 'orc', 'croc', 'cat', 'skeleton', 'pumpkin', 'unicorn'];
 
   // ---------- tiny helpers ----------
   function h(tag, attrs, kids) {

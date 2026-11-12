@@ -12,6 +12,19 @@
       "words": 21381,
       "file": "saga-of-metallica.html",
       "download": "The_Saga_of_Metallica_and_the_Shattered_Realm.docx"
+    },
+    {
+      "id": "saga-of-angelica",
+      "title": "The Saga of Angelica and the Sovereign Bridge",
+      "tagline": "A unicorn queen, eleven human crowns and a road laid in secret across the sea: three hundred and eighteen years of peace, patience, conquest and walking trees.",
+      "icon": "crown",
+      "simulation": "WorldBox: Unicorns vs Humans",
+      "years": "Year 0 – 318",
+      "factions": ["unicorn", "human", "skeleton"],
+      "seed": 318,
+      "words": 29512,
+      "file": "saga-of-angelica.html",
+      "download": "The_Saga_of_Angelica_and_the_Sovereign_Bridge.docx"
     }
   ]
 }

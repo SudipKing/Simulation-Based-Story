@@ -266,6 +266,20 @@
       '..........',
       '..........'
     ], { c: PAL.croc, d: PAL.crocD, b: PAL.crocB, e: '#f0d020', w: PAL.white }),
+    unicorn: parse([
+      '.y........',
+      '..y.......',
+      '..ww......',
+      '.wwwp.....',
+      'wewwpp....',
+      'wwwwppwww.',
+      '..wwwwwwwp',
+      '..wwwwwwwp',
+      '..wwwwwww.',
+      '..w.w.w.w.',
+      '..w.w.w.w.',
+      '..g.g.g.g.'
+    ], { w: '#f4f0fa', p: '#a06ad8', y: '#f2c94c', e: PAL.eye, g: '#8a7fa0' }),
     pumpkin: parse([
       '.....ss...',
       '.....s....',

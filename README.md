@@ -10,6 +10,7 @@ and opens into a parchment reader with chapters, themes and remembered progress.
 | --- | --- | --- | --- |
 | Bow | *The Saga of Metallica and the Shattered Realm* | WorldBox: Elves vs Humans | Year 1 – 725 |
 | Crown | *The Saga of Angelica and the Sovereign Bridge* | WorldBox: Unicorns vs Humans | Year 0 – 318 |
+| Flame | *The Crucible of Three Factions* | WorldBox: Crucible of Three Factions | Year 7 – 300 |
 
 ## Run it
 
@@ -70,6 +71,12 @@ The Angelica saga is built the same way from `stories/source/angelica/`:
 
 ```bash
 node tools/build-stories.js saga-of-angelica stories/source/angelica/p1.txt stories/source/angelica/p2.txt stories/source/angelica/p3.txt stories/source/angelica/p4.txt stories/source/angelica/p5.txt
+```
+
+The Crucible chronicle is built from `stories/source/crucible/`:
+
+```bash
+node tools/build-stories.js crucible-of-three-factions stories/source/crucible/p1.txt stories/source/crucible/p2.txt stories/source/crucible/p3.txt stories/source/crucible/p4.txt stories/source/crucible/p5.txt
 ```
 
 ## About the art

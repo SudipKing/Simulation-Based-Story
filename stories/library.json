@@ -25,6 +25,19 @@
       "words": 29512,
       "file": "saga-of-angelica.html",
       "download": "The_Saga_of_Angelica_and_the_Sovereign_Bridge.docx"
+    },
+    {
+      "id": "crucible-of-three-factions",
+      "title": "The Crucible of Three Factions",
+      "tagline": "A ring of sand, a forbidden green heart, and three peoples held apart for two hundred years. Then the Harbinger, the gourds, and a god.",
+      "icon": "flame",
+      "simulation": "WorldBox: Crucible of Three Factions",
+      "years": "Year 7 – 300",
+      "factions": ["elf", "orc", "dwarf", "pumpkin"],
+      "seed": 300,
+      "words": 20038,
+      "file": "crucible-of-three-factions.html",
+      "download": "The_Crucible_of_Three_Factions.docx"
     }
   ]
 }

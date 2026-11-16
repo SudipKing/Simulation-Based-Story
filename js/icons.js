@@ -26,7 +26,9 @@
     dragon: { label: 'Dragon', svg:
       `<g ${S}><path d="M10 44 C14 30 26 30 30 22 C32 14 40 10 46 14 L54 12 L50 20 C52 26 48 30 44 30 C40 34 36 44 28 48 C22 52 14 52 10 44 Z"/><path d="M30 26 C24 20 16 18 8 22 C14 24 18 28 22 32"/><circle cx="46" cy="18" r="1.4" fill="currentColor"/></g>` },
     moon: { label: 'Moon', svg:
-      `<g ${S}><path d="M44 8 C28 10 18 22 18 36 C18 48 26 56 38 56 C44 56 50 54 54 50 C38 52 30 42 32 28 C33 20 38 12 44 8 Z"/><path d="M50 14 l2 5 l5 1 l-4 3 l1 5 l-4 -3 l-5 2 l2 -5 Z" stroke-width="1.8"/></g>` }
+      `<g ${S}><path d="M44 8 C28 10 18 22 18 36 C18 48 26 56 38 56 C44 56 50 54 54 50 C38 52 30 42 32 28 C33 20 38 12 44 8 Z"/><path d="M50 14 l2 5 l5 1 l-4 3 l1 5 l-4 -3 l-5 2 l2 -5 Z" stroke-width="1.8"/></g>` },
+    comet: { label: 'Falling star', svg:
+      `<g ${S}><circle cx="22" cy="42" r="11"/><path d="M17 38 l3 2 M24 47 l3 -1 M25 36 l1 3" stroke-width="2"/><path d="M30 34 L54 10 M33 41 L58 20 M26 30 L44 8" stroke-width="2.4"/><path d="M8 58 H56" stroke-width="2"/><path d="M14 58 l3 -5 l4 3 l4 -6 l5 5 l3 -4 l4 7" stroke-width="1.8"/></g>` }
   };
 
   function svg(name, size) {

@@ -38,6 +38,19 @@
       "words": 20038,
       "file": "crucible-of-three-factions.html",
       "download": "The_Crucible_of_Three_Factions.docx"
+    },
+    {
+      "id": "covenant-of-aurenvale",
+      "title": "The Covenant of Aurenvale and the Falling Star",
+      "tagline": "A red star over the world called Gaia, two hundred years to be the last realm standing, and a Watcher who swore to keep its hands tied. Three souls, nine Signs, twenty-nine wars of its own choosing and one stone.",
+      "icon": "comet",
+      "simulation": "The Biosphere Realm: seed Gaia",
+      "years": "Year 0 – 200",
+      "factions": ["human", "elf", "dwarf", "orc", "croc"],
+      "seed": 200,
+      "words": 50206,
+      "file": "covenant-of-aurenvale.html",
+      "download": "The_Covenant_of_Aurenvale_and_the_Falling_Star.docx"
     }
   ]
 }

@@ -1,0 +1,435 @@
+#C Prologue: The Maker's Terms
+
+#E "Give me a world with no place to hide in. Then I will know that whatever happens, I let it happen."
+(Attributed to the Watcher, in the Eddish Book of Beginnings)
+
+Before there was a year to count, there were two powers in a place that was not a place, and a table between them with a great many worlds on it.
+
+One was the Maker. It had built the worlds, as another might build clocks, out of curiosity and long afternoons, and it was not unkind. It spoke rarely and plainly, and when it was pleased it had a way of going quiet that the other power learned to read as laughter. The other was the Watcher, who had been asked to play, and who took the asking more seriously than the Maker had meant it.
+
+The Watcher walked the table slowly. It lifted each world to the light and turned it over, the way a jeweller turns a stone, and it set most of them down again within a breath.
+
+"This one has islands," it said.
+
+"Many," said the Maker. "Lovely ones. Warm water, white sand."
+
+"No."
+
+"You have not looked at the people."
+
+"I do not need to. Understand me." The Watcher held the little world level between its hands, and the oceans did not spill. "In this game no ship carries soldiers. A people who settle an island are safe forever, because no one can ever come for them, and a people who can never be reached can never be tested, and a people who are not tested are only furniture. I will not rule furniture. Give me a world with no place to hide in, so that whatever befalls my people, I cannot tell myself the sea saved them or the sea doomed them. I want every shore walkable."
+
+The Maker considered this for some time. "That is a harder game than the one I offered."
+
+"Yes."
+
+"You will lose more often."
+
+"Then I will know why."
+
+So the islands were put away, and the Watcher came at last to a world that the Maker had named, with no particular care, Gaia: one single continent in a great ocean, with a spine of white mountains running across its middle and up its northern reaches, and under that spine, in the centre, a country of high meadows and birchwood and hills, with a pocket of jungle in it, as if the land had not been able to decide what sort of place it wished to be. It was beautiful. It was also, the Watcher saw, thick with teeth. Spiders the size of barns lay in the folds of it, and basilisks in the dark pines, and trolls on the ridges, and in the high air things with wings that carried lightning.
+
+"Who lives in the middle?" the Watcher asked.
+
+"Whoever you give it to," said the Maker. "Seven peoples wake at the start. Elves on the eastern coast, dwarves in the western hills, orcs in the south, gnomes on the northern peninsula, saurians in the north-eastern peaks, goblins far to the west. And in the centre, wherever you like."
+
+"Humans."
+
+"The centre is the worst land to hold. Every road passes through it. Every monster passes through it."
+
+"Humans learn fastest," said the Watcher. "Nothing else will do in the time you have given me."
+
+The Maker did not answer that, and the silence was the amused kind. Then it laid down the terms, which it had clearly said before and would clearly say again, in the voice of someone reading out a short and very old law.
+
+"Pick one people and rule them. Two hundred years. Make them prosperous and the only realm left standing. Declare war, fight wisely. If at the end of the two hundredth year your people are not the last, a great stone falls from the sky and the world ends. That is the whole story."
+
+"The only realm left standing," the Watcher repeated. "Not the greatest."
+
+"The only one."
+
+"And if I fail?"
+
+"I have said what happens."
+
+The Watcher looked down at the little centre of the continent, at six pinpricks of life around a fire where nothing yet had a name. It felt something it had not expected to feel, and could not have called pride or fear, because it was both and also a third thing that had no word in any tongue yet. "Then I will need to name them," it said. "People who are called nothing belong to no one."
+
+And it named them. It called the realm Aurenvale, and its hall-town Eddale. It called the faith the Covenant of Aurelan, after a Lord of Order and Duty who had not existed until that moment and who, the Watcher noticed with some alarm, seemed to exist rather firmly once it had said the name. It called their way of living Oathbound, and gave them chivalry and scholarship as inheritance, and a tongue called Eddish, and a motto of two small words, *To ri*, that meant in their language roughly: *we hold.*
+
+Then the Maker reached up, and with the casualness of a person hanging a lantern, set a small red light in the sky, low and faint, a little north of the morning.
+
+"What is that?" said the Watcher.
+
+"The Stone," said the Maker. "It is only a star for now. You will hardly see it. It will grow."
+
+"Everyone will see it? Not only mine?"
+
+"Everyone. It would not be fair otherwise."
+
+"Begin," said the Maker.
+
+The Watcher lowered its hand, and the Year Zero came down like a held breath let go.
+
+#B BOOK ONE|The Rooting|Years 0 to 40
+
+#C Chapter One: Six at Eddale
+
+#E "We were six. Write that down, and then write that we were enough. We were not, but write it."
+(Words cut into the lintel of the great hall at Eddale, in Tomly's hand)
+
+They woke in the grass in the first light of the world, and for a long moment none of them spoke, because none of them knew yet what speaking was for.
+
+There were six. Tomry woke first, as he would wake first for forty years, with his hand already closing on something that was not there and would later be called a spear. He was a broad, slow-eyed man with a soldier's way of standing even when he was lying down. Beside him lay Marda, who sat up looking not at the others but at the earth under her fingers, rubbing it between thumb and finger, tasting it, frowning, as if she had been handed a debt. Tomly, long and clever-handed, was already counting the trees. Gereth, young and sharp and quick to anger, spat out a mouthful of seed-heads and demanded to know who was in charge. Gerbert, the fifth, had a voice that was too large for the rest of him; he said "Hello" to the whole hillside and was so startled by the echo that he said it again. And last, still lying on his back with his eyes open, was Tomold, the youngest, who had not looked at any of them. He was looking at the sky, at a single faint red point above the northern hills.
+
+"That is wrong," he said. "That is not a star."
+
+"It is the only one," said Marda, without looking up from her handful of earth.
+
+"Then why is it red?"
+
+No one knew. They would not know for two hundred years, and when they did, it would not matter.
+
+The place where they had woken was a shallow bowl in the central highlands, with birchwood to the north, high meadows rolling up toward the white spine of the world, and to the south a scent that made Tomry sit upright: lemon, faintly, from groves too far away to see. A stream ran through it. A hill stood over it like a hand cupped round a candle. Nothing in all that country had a name yet except what the six gave it, and they gave it names slowly, and badly, and with much arguing, until Gerbert said that it should be called after the place where the grass thinned and the stream was shallow enough to wade, and that was the *dale*, and the first thing built in it would be the *ed*, which in what became Eddish meant *the roof that stays up.* Eddale. They laughed at the name for being so plain, and then they said it again, and it held.
+
+The first year was the year of the hall. Tomly drew it in the dirt with a stick on the second morning, a long low building of timber and thatch with a single great hearth in the middle and a door on the south side to face the lemon-wind, and everyone had an opinion about it, and Tomly ignored every opinion with the placid contempt of a man who knows how roofs work. By the fortieth day there were walls. By midsummer there was a hearth. On the night the roof was finished they all slept under it together, six in a row on bracken like seeds in a pod, and Gereth, who had been angry for forty days and had not known why, wept quietly in the dark. Marda, who was awake, said nothing. She put her hand on his shoulder until he stopped.
+
+They had not known that other peoples existed. They knew it now, because Tomold, climbing the northern hill for no reason except that he wished to see the red point nearer, had seen smoke on a ridge far beyond the pines, thin and straight, and under it the glint of a banner. The people of the north-eastern peaks, tall and green-scaled and unhurried, were saurians. They called themselves the Dominion of Zathixal, and they worshipped a lady called Veritas who ruled by law and by justice, and their motto, when Gerbert's embassy of three walked into their valley with their hands empty and open, was translated for them as *Yss zeth ikix*: *we are what we do.*
+
+"What do you do?" asked Gerbert, in Eddish.
+
+The saurian who met them, a long grave woman with a collar of river-glass, tilted her head. She did not understand the words. But she understood the empty hands. She laid her own hand, cold and dry as a stone from a stream, flat against Gerbert's palm, and that was the alliance, sworn in the Year One without a single word shared between them.
+
+In that same year Tomold painted the mural.
+
+It covered the long north wall of the hall, a bridge of pale stone across a river of blue, and the people on it were gold, six figures walking side by side in the light, and above the bridge there was a small red dot he could not bring himself to leave out. He called it *The Faithful Bridge of Eddale*. He had no word for faith yet, only the sense that something had to hold when the river rose. Gerbert, looking up at it, felt his eyes fill, which annoyed him. Gereth said it was too pretty to be useful and then stood in front of it for an hour. It was the first art of the realm, and everyone who ever came into that hall afterward would raise their eyes to it without knowing why.
+
+"It has the star in it," Marda said that evening, wiping her hands.
+
+"I could not leave it out."
+
+"No," she said. "I do not think anyone can."
+
+In the Year Four the saurians declared a holy war on the orcs of Bolthul, the Horde of the Chaos-Drum, who lived in the clover-meadows and the lowland far to the south. It was none of Eddale's doing. It was a thing of gods, of Veritas and Krukka glaring at each other across the continent, and nobody in the central highlands had even met an orc. But the alliance had been sworn with an open hand, and an open hand is a promise, and the herald, standing in the hall on a cold grey morning, read out what the Watcher had decided: Aurenvale would honour its word.
+
+Tomry was the first to speak when he had finished.
+
+"With what?" he said.
+
+It was a soldier's question. It was the only question. There were six of them in the hall and one spear. They stood looking at the mural, and at the lintel, and at the long cold hearth, and none of them could answer him.
+
+"We will find out," said Gerbert at last, and his voice, so large and so young, cracked on the last word.
+
+The war began, as every war in that country began, with a man standing in a doorway looking south. Tomry stood there that night a long time. Behind him, the others were sleeping. Above him, in the northern sky, the small red star shone no brighter than before, and he thought, because he had no better thought to think: *Someone is looking at us.* He was right. It was not comfort. It never had been, for the one who was watching.
+
+*
+
+The Watcher stood a long time with its hands on the table-edge, after the decree, which it had not yet learned to do without.
+
+"You did not tell me," it said to the Maker, "that an alliance could drag a people into a war it never chose."
+
+"I told you to fight wisely."
+
+"You told me to declare war. You did not say that other peoples could declare it for me."
+
+"I did not know that you would swear a friendship the first spring," said the Maker mildly. "I thought you would wait."
+
+"Wait for what?"
+
+"To know them."
+
+#C Chapter Two: The Weaver
+
+#E "She is not a beast. A beast can be fought. She is the house the forest builds around the beast."
+(Saying of Eddale, from the winter of the Year Seven)
+
+The army of Aurenvale in the Year Five was five people with sharpened sticks, and it was led, by decree, by Annwin.
+
+Annwin was not one of the six. He walked down out of the northern hills in the Year Four, alone, a grown man of thirty with a face like a closed door, and asked for nothing but a place by the fire; Marda, who had been counting, cut a seventh notch for him, unusually deep. He was a lanky, silent, watchful man who could stand motionless for an hour in the birchwood and be mistaken for a tree. Tomry, who had thought himself the only soldier in the world, asked him what he knew of the spear. It was a short lesson, because Annwin had a gift for it that frightened the older man. "He does not fight like a man," Tomry told Marda one night. "He fights like something that has already done it."
+
+"Then he is the general," said Marda. "Someone must be."
+
+In the Year Five, the decree named him. He was, by every account, the best of them. He was also the first general of Aurenvale and the only one anyone would ever call by that name without a number after it, and when the herald read the decree, Annwin stood up straight and said, "Yes," and the people in the hall, who were all of eight, applauded, and Marda wept into her sleeve and then angrily denied it.
+
+It was in the same year that the Weaver came.
+
+She was a spider, and she was the size of the great hall. No one in Eddale ever saw her whole. They saw a leg, tall as a birch trunk, bristling and pale, lowering itself out of the dark beyond the north meadow. They saw webbing in the morning, strung between the trees like the sails of a wrecked ship, and in the webbing the white husks of deer. They found the traces in the grass of something that had walked on eight points and left them clean. The name came from Gerbert, who said, looking at the web in the morning sun, that it was a weaving, and whoever made it was a weaver, and that was all there was to be said, and he regretted ever saying it, because after that it was a name, and a name is a door.
+
+"She will come for the hall," said Tomly, who had built it. He had measured it against her leg.
+
+"She will come for what moves," said Marda. "The hall does not move."
+
+"We do."
+
+And in the Year Seven the Watcher, looking down at the notched doorpost and the nervous torchlight, made a decree, and it was a good one: the people of Aurenvale would make *The Faithful Harvest*, a painted frieze of the first corn-fields of the dale, because Marda's seed-work had at last yielded a barley sheaf thick enough to feed the hall through winter, and a people who have fed themselves should say so. The art gave the six something in the bitterest season of the war, which is the memory that you did something other than survive. They hung it opposite Tomold's bridge. Tomold said it made the bridge look like a lie, and then, a moment later, that perhaps all bridges did.
+
+"She will not stop," he said. "Not because of corn."
+
+"The war with Bolthul has sent no one to us," said Tomry. "Not yet. The Weaver is the war."
+
+"Then I will go and end it."
+
+"You are a stranger to this valley."
+
+"I am the general," said Annwin. "That is what a general is for."
+
+They marched on the Weaver in the Year Eight, at dawn, every grown soul in the dale who could hold a spear, with spears of sharpened wood hardened in the fire. Tomry carried the only one tipped with stone, a dull flake of flint that Tomly had spent a month shaping. It was the last day of the Stone Age in Aurenvale. They did not know it. They knew only the cold, and the smell of the birchwood after rain, and the strange strong silence of the north meadow with the web stretched across it in the first light, wet with dew, hung with ten thousand beads of brightness, and in the middle of the web, very still, something that was not yet moving.
+
+She was bigger than anyone had said.
+
+What they remembered afterward, those who remembered, was how quietly it began. There was no battle cry. Annwin raised his arm, and the spears came level, and the Weaver, who had been a pale shape in the web, came down it all at once, not like an animal but like a thought. The first rank did not scream. They had no time. The second rank broke, as armies break, from the back to the front, in the space of a held breath. Tomry saw a young woman of the gathering-party, snatched into the air by one leg, and he threw the stone-tipped spear, and it struck the great body with a sound like a dropped plate, and bounced.
+
+He saw Annwin, in the open ground, alone, with the Weaver above him. The man did not run. He stood very still, the way he had stood in the birchwood, and he put up his spear in both hands as one puts up a hand in greeting, and the shadow came down.
+
+That was all. Four came back, and not all the way. They carried nothing. Tomry carried the broken haft of Annwin's spear and would not set it down for three days, until Marda took it from his hands, one finger at a time.
+
+"The general is gone," said Gerbert at the hall, and he said it badly, with his big voice cracking and then going quiet, so that the words seemed to go on after he had stopped. They carved it into the doorpost, under the notches. *The general is gone.* There was no more to say, and nothing else could be carved.
+
+In the winter that followed, the Watcher did the only thing it could. It made a decree that had no honour in it at all: the people of Aurenvale would learn from what they had suffered. It was not a command. It was a pressure on the world, a bending of the thought-grass in the hall, and what came of it, slowly, in the coldest months, was bronze. Tomly found it first. He found a green stone in the ash of an unusually hot fire, and a soft bright thread of metal running from it, and he stood staring at it with the expression of a man who has dropped something precious and then discovered that it was worth more than he thought. In the Year Eight, Aurenvale entered the Bronze Age, and the first thing made of the new metal was a spear-tip, too good for the sticks it was fitted to.
+
+*
+
+The Watcher watched this too, from above, and it was in that winter that it first understood what the Maker had meant.
+
+"A general died," it said. "A man who walked out of the hills to us. I named him."
+
+"Yes."
+
+"And I would do it again. That is what troubles me. If the choice came again, if there were a Weaver at the edge and a man who could fight like something that had already done it, I would name him again. I do not know how to stop."
+
+The Maker was quiet for a moment, and when it spoke it did not sound amused. "You are not meant to stop," it said. "You are meant to *learn which wars to fight.* It will take you rather longer than you expect."
+
+"How long?"
+
+"I could tell you. It would not help."
+
+#C Chapter Three: The Turning of Pacts
+
+#E "Every friend is only an enemy who has not yet been asked the right question."
+(Eddish proverb, said to be Gereth's, and not meant kindly)
+
+For nineteen years, nothing in the history of Aurenvale was settled, and everything was a treaty.
+
+In the Year Nine, the orcs came. They came up out of the southern clover in the name of Krukka, Chaos-Drum, with their ancestor-skulls tied to the poles of their banners and their drums beating in the half-light, and they burned a farmstead on the south road and cut down an old man who had been picking lemons. They called it a holy war. In Eddale, nobody could say what it was holy for. Gerbert read out the decree to stand and fight, and Gereth, who had become a hard and sunburnt young man with a gift for knowing when a line would break, stood with the line and the line did not break, and the orcs went home with their skulls and a few of Aurenvale's, and nobody won.
+
+In the Year Eleven another spider came. Silkfang was smaller than the Weaver, and faster, and she did not wait for the moon. She took a flock of sheep in a single night, and then a herdsman, and then she hung, for a week, in the birches at the south of the dale like a bad omen, and everyone in Eddale who had survived the Weaver felt a curdling cold in the stomach, because they remembered what happens when you march. No one marched. The decree said: *stay within the hall*, and they stayed, and Silkfang lingered and went away and came again, a plague with eyes. They had learned the one useful thing: that some things are not fought, but endured.
+
+The Year Twelve brought the elves.
+
+They had been the Watcher's blind spot all along. The people of Luriel, in their lowland by the eastern sea, were a tall and exquisite folk, serious and musical, who worshipped a Storm Spirit called Zephrael and had a motto, *Thi ys*, meaning something close to *it is so.* They did not hate Aurenvale. They simply declared war on it, in the cool way that a cat knocks a cup from a table, and their archers came up through the eastern hills in silver-green cloaks and burned three barns, and for a season Eddale learned what it was to be hunted by people who were very, very good at it. A boy of six, the grandchild of nobody, was found dead in a field with an arrow through his eye and a look of mild surprise.
+
+"We have done nothing to them," said Gerbert in the hall, trembling.
+
+"They do not need us to have done anything," said Gereth. "We are here."
+
+In the Year Thirteen, they renewed the alliance with Zathixal. The same long grave woman with the river-glass collar came up to Eddale this time, and stood in the hall under the mural, looking at the bridge and the six gold figures, and said something in her cold dry tongue, and Gerbert, who had learned Sssaurian by then, translated it with his eyes shining. "She says that it is a good thing, to paint a bridge before the river is crossed."
+
+"Tell her it is only paint," said Tomold.
+
+"I have told her. She says that paint is what a people has before it has law."
+
+In the Year Fourteen and the Year Fifteen there was peace, with the elves and with the orcs, in two quiet winters back to back, and the people of Eddale did not trust it, and ate and slept and sang anyway. By the record's own count the realm stood at six, which was exactly what it had been on the morning it woke. The Weaver had taken what the first years gave. Marda, slower now in the knees, taught the young ones to read the seed.
+
+In the Year Sixteen, the Weaver died.
+
+Not in Eddale. Not by any hand of Aurenvale. A gnome of the far northern peninsula, a small stubborn man called Fenpin of Dobwhistle, killed her in the pine forests where she had gone to hunt, and the news came down through traders and wanderers and the half-heard talk of the road, and the people of Eddale heard it in the hall at supper, and nobody spoke.
+
+"A gnome," said Tomry at last.
+
+"A gnome with a stick," said Gereth.
+
+"A gnome with a *plan*," said Marda, setting down her spoon. "I think that is the difference."
+
+The Year Nineteen gave them *The Eternal Harvest of Aurenvale*, a second great frieze, and with it came word that Silkfang too had fallen, not to them but to the elves of Luriel and to a saurian called Rizra, who had gone up against her in the eastern forest together. Aurenvale had feared the spider for eight years. Its enemy and its friend had killed her in a morning.
+
+In the Year Twenty-Five a stream on the border with Dwaldun, the dwarves of the western hills, was disputed. Neither side wanted a war. Both had long memories and short tempers, and a shepherd died on a hillside with a dwarf's axe in his neck and a dwarf died beside him with a sling-stone in his skull. It ended with a slow handshake and a boundary-cairn that neither side loved.
+
+In that same year, in the same breath, the herald read out a decree that nobody in Eddale expected. Aurenvale would ally with Bolthul.
+
+"With the *orcs*?" said Gerbert, who had been, by then, herald for a quarter-century and had never once questioned the words he spoke. He said it before he could stop himself. The hall went silent. It was the first time he had ever hesitated.
+
+In the Year Twenty-Seven, Bolthul declared a holy war on Zathixal.
+
+Gerbert read the decree in a flat voice. He had grown old, in those years, in the way heralds do, from the inside. His big voice had gone to gravel. "Aurenvale will stand with its ally."
+
+"Which ally?" said Tomry.
+
+"Bolthul."
+
+"And Zathixal?"
+
+"It is the enemy." Gerbert did not look at him. "It is the war."
+
+Tomry stood, for a long moment, with a bowl in his hands. He had been the first to wake in the world. He had walked into the saurian valley on the first spring with his hands empty and open. He remembered, as nobody else in that room could, the cold dry palm of the grave woman with the river-glass collar against his own. He set down the bowl.
+
+"That is the oldest friend we had," he said.
+
+"It is the decree," said Gerbert.
+
+"I know what it is."
+
+He went out into the dark, and stood in the doorway looking south, as he had done in the Year Four. It was a long time before he came in. Neither he nor anyone else ever forgot the look of the sky that night. The red star hung over the northern hills, and it was, whatever the sceptics said, a little brighter than the year before.
+
+*
+
+"I turned on the first friend I made," said the Watcher.
+
+"Yes," said the Maker.
+
+"Because the second friend asked."
+
+"Because the second friend had been your enemy and you thought that was the cleverer pact. I watched you think it."
+
+"You did not say anything."
+
+"It was not mine to say." The Maker's voice held no reproach, which made it harder to bear. "You have a great many alliances now. How many of them do you trust?"
+
+#C Chapter Four: The Decree of the Twenty-Eighth Year
+
+#E "Do not found a village in a war. Do not found a village in a winter. Do not found a village with the only people you have."
+(From the Book of Beginnings, a later hand, the single marginal note)
+
+It was the third decree of the autumn season, and it was a gentle one, which is why it killed them.
+
+The Watcher had been watching the number. Twelve souls, the record said, in the Year Twenty-Seven, and the Watcher stared at the twelve as a gardener stares at a bed that will not fill. A realm of twelve could be ended by a bad winter. A realm of twelve could be ended by one monster. It had read, in the dry volume of its own reasoning, that populations grow where land is cultivated, that a people need room and a hearth to each family, and that a village is a hearth that does not wait for a hall. It thought: *scatter, and they will root. A hall that holds twelve will starve, but two halls will hold twelve each.* It thought this with great clarity, in the cold bright way it had thought in the Maker's presence, and it was the clearest and the most terrible thought of its life.
+
+In the Year Twenty-Eight, the Iron Age came to Aurenvale, quietly, as a gift, along with the war with Luriel that no one had asked for. Gereth was made general. And in the hall, on the first morning of the autumn, Gerbert stood up in the grey light with a face like a man reading his own sentence, and spoke the Watcher's words in a steady voice.
+
+"Aurenvale will found villages. Families will go forth from Eddale, and make new hearths, to the south and the east. Let the dale be wider than the dale."
+
+They called the first village Brookgate, for the stream-crossing on the south road, and the second Roston, for the red rock in whose lee it stood. Four families went to the one and three to the other, and they left the hall with a procession, and the herald sang, and the old women wept the good tears, and Marda, whose hair was grey now and whose hands shook when she held a seed, pressed a handful of barley into the palm of every departing mother and said the old words. *Root where you fall.* And they went.
+
+Who died first is not recorded, and cannot be, because the first death was not a death. It was a thinning. Eddale had twelve, and now it had four, because eight had gone out, and the four who remained were old, or young, or lame, or had stayed because the hall could not be left. Eddale, a hall with four people, is a hall that cannot hold the north meadow, or the south road, or the sky. The elves came up from the east in the Year Twenty-Eight in a thin silver column, and the army of Aurenvale, which was Gereth and a boy and two women with spears, met them at the ford. Gereth held the ford for a day and a night, and in the morning he was alone and he held it for another hour. They buried him in the rain. Tomry did the burying. Tomry did not weep. It was not that he lacked tears. It was that there was no one left to see.
+
+Gerbert died the same winter. It was not battle. It was the cold in the hall, and his lungs, and the fact that he had spent his life talking in a voice too large for his body. He lay on the long bench by the hearth, and Marda sat beside him, and he said to her in his gravel whisper: "I read it out. Every word. Do you think the Watcher meant it?"
+
+"Which?"
+
+"Any of it."
+
+"I think the Watcher meant it more than any of us," said Marda. "That is the trouble with it."
+
+Tomly went out to Brookgate in the spring to see what had come of it. He took a mule and a bronze adze, and he was gone for sixteen days, and when he came back he did not speak for another two. At the end of the second day he said only: "They are dying."
+
+"Of what?"
+
+"Of everything. A fever off the stream. A wolf. A fire. The young ones went out to hunt the ridge and a thunderbird took the eldest, and the other three came home and would not go out again. They have no hall, Marda. They have a fence and a hearth, and a baby that cries all night." He sat down heavily on the step. "I built the hall so it would stay up. I did not think to build anything so it would stay *full.*"
+
+The record is dry here, as it is dry everywhere. Year Thirty: *the village of Roston has been abandoned.* It was not abandoned in the sense of a decision. It was abandoned in the sense that the last of its people were dead, a woman in the doorway with a child in her arms and both gone cold, a field of untouched barley ripening in the autumn sun with no one to cut it. Brookgate lingered, and what children it had left were carried north to the hall. Tomry, now the only grown soldier left in Aurenvale, went down to hold it in the Year Thirty with a spear and a patched jerkin and a stubbornness that was beginning to look like madness. He held it for ten years.
+
+In Eddale that spring there were eight children.
+
+They were not orphans, exactly. They were what was left over, brought in from the dying villages and the empty cradles of the hall: Edmund and Maeold, Edry and Isric, Anneth, Maery, Edric, Elry. The oldest was perhaps sixteen. The youngest could not yet walk. Marda was the last grown woman in the hall, and she was seventy in all but years, and she gathered them around the hearth in the Year Thirty and told them stories, because she did not know what else to do, and because stories were the only thing she had left that did not require a spear.
+
+"Once there were six," she said. "In the grass, at the first light. And there was a bridge."
+
+"What was on the bridge?" asked Edmund. He was the eldest, a serious boy with grey eyes and a way of listening with his whole face.
+
+"Us."
+
+"Who is us?"
+
+She looked at the long north wall, and the pale stone and the blue river and the six gold figures walking, and the tiny red dot above them. "You are," she said. "Though you do not know it yet."
+
+Marda died that spring. It was a quiet death, with a child's hand in each of hers. She had kept Gerbert's brass horn on its peg since the winter he died, and at the last she put it into the hands of Edry, who was fourteen and the best singer of the eight. "Keep it," she said. "When the day comes that nobody else can say the words, you will." Tomold, who had been the youngest of the six, and had painted the bridge, and was now a stooped sick man of fifty, sat beside the body for a night and a day and said nothing at all. Then he went into the hall. He took up the brush. He painted one more figure on the bridge, small, at the very end of the line, with its face turned back toward the viewer, and a hand lifted.
+
+"Who is that?" asked Edmund, standing at his elbow.
+
+"I do not know," said Tomold. "Someone who has not yet arrived."
+
+He died in the summer, in his bed, in the night, with the red star in the window and the brush still in his fingers.
+
+*
+
+The Watcher did not sleep. It had no need of sleep. But it stood a long time above Eddale in those years, and it was a different Watcher from the one who had walked the Maker's table with such certainty.
+
+"I did this," it said.
+
+"Yes," said the Maker.
+
+"I decreed it. Gently. With the best of intentions. I looked at twelve souls and thought, *scatter them, and the seed will take.* I thought of it as planting."
+
+"What did you plant?"
+
+"Graves." The Watcher's voice was very low. "I did not understand that a people is not a field. You cannot thin it and expect it to spread. They were a *hearth*. Six, and then twelve, and every one of them was holding up a piece of the roof, and I took the roof apart to build two small ones, and the rain came in."
+
+The Maker did not answer for a long time. When it spoke at last, it said only: "There are eight children, and one soldier at a gate."
+
+"Yes."
+
+"Then there is a people. It is a small one. It is the one you have."
+
+"I know."
+
+"What will you do?"
+
+The Watcher looked at the eight faces round the dying hearth, grey with hunger and wide with the stubborn watchfulness of the very young. It said, and it was the hardest thing it had ever said: "Nothing. Not for a while. I will wait to be asked." And for the first time in its long watch, the Watcher understood that restraint was not wisdom, but it was the beginning of the road toward it.
+
+#C Chapter Five: Three Souls
+
+#E "We were eight, and then we were fewer. We kept the fire. A fire is not a people, but it is where a people can begin."
+(Scratched into the hearth-stone at Eddale, in a child's hand)
+
+The basilisk came in the Year Thirty-One, and the army of Aurenvale, such as it was, went out to meet it, because no one had told them they could stay home.
+
+It was a thing out of the dark pines to the south, a long grey serpent-lizard the height of a horse at the shoulder and the length of three, with a crest of bone and eyes that did not blink. The record names it Viperscale. The children called it the Grey Dragon, because they had never seen a dragon and did not know the difference. It did not hunt, in the way a wolf hunts. It simply moved through a country, and what it passed through went still. By the Year Thirty-One it had reached the lemon groves south of Eddale and lay coiled in the heat among the fallen fruit, and Tomry, who had come up from Brookgate with five scrapings of men, two of them boys no older than fifteen, stood at the edge of the grove and looked at it for a very long time.
+
+"I do not like it," said a boy. "It is not looking at us."
+
+"No," said Tomry. "That is what I do not like either."
+
+He counted the army. Five, with himself. He had told the Watcher, in his own way, in the silent habit of a man who had talked to a red star for thirty years, that it would not work. He told the star again, as he led them forward through the lemon trees with their bronze-tipped iron-hardened spears and their small, patient fear. It did not work. The army broke against Viperscale in the second quarter of an hour, and of the five who went into the grove, two came out. One was Tomry. The other was the boy, who stumbled into the dale at nightfall and said nothing for two days, and then said only: "It looked at me."
+
+He died that winter. It was not the wound. It was a stillness. He had been looked at, and something in him had gone quiet, and he sat by the hearth with his hands open until the last of the light left them.
+
+The eight children grew. They had to. Edmund, who was the eldest, stood in the dale each morning with a wooden spear he had whittled, and drilled the younger ones, in rows, as he had seen Tomry do. Maeold, who had arrived small and furious, grew into a tall and furious girl who kept the granary with her teeth. Anneth, who was gentle, kept the hearth. Edry and Isric, who were sister and brother, argued about everything and never once about the fire. The little ones, Maery, Edric and Elry, ran in the long grass, and they were the last of the children to learn what the hall had been before them.
+
+"Why is there a chair under the picture?" Elry asked in the Year Thirty-Six.
+
+"For the one who is not here," said Edmund.
+
+"Who?"
+
+"I do not know," said Edmund. But he looked, for a long time, at the empty throne, and the painted bridge, and the small figure at the end of the line with its hand upraised. And he thought, as he would think all his life, that it looked remarkably like a person who had been waiting.
+
+In the Year Thirty-Seven, the Watcher ended a long silence and allied again with Zathixal, the oldest friend it had ever turned upon. Tomry, who had spoken the Watcher's decrees since Gerbert's death and had come up from Brookgate that autumn for the winter, spoke the words himself in the empty hall, in the flat voice that had once belonged to a young man waking in the grass. In the south, that same year, a party of Bolthul's orcs set out upon the sea in boats of skin and driftwood, and found new shores, and founded a place called Kragdak. Aurenvale heard of it only as rumour.
+
+In the Year Thirty-Nine, the orcs of Bolthul attacked Aurenvale.
+
+It was not a holy war this time. It was a tired, ugly thing, a raid against a hall that held a soldier and a handful of children, and every orc on the south road could see how it would end. It did not, because on the third day, out of the north-east, came the saurians, tall and grave, with a collar of river-glass at the head of the column. They had been betrayed, and they came anyway. The Bolthul warband broke on a line of green-scaled spears, and in the evening the saurian general, a long grave woman with a river-glass collar, climbed to the hall and stood under the mural.
+
+"It is a good thing," she said, in her own cold tongue, "to paint a bridge before the river is crossed."
+
+Edmund did not understand a word. He understood the hand. When she laid it flat against his palm, cold and dry as a stone from a stream, he did what he had seen Tomry do, and did not take his hand away.
+
+But the dale was emptying. That was the truth that the saurians' help could not mend. Brookgate had lasted ten years with Tomry's patience and no one else's, and by the Year Forty it had two people in it, then one, then none. The record says it in a line: *Year Forty: the village of Brookgate has been abandoned.* Tomry came home to Eddale for the last time in the early autumn. He walked up the hill with a sack on his back and a spear gone grey with age, and stood in the doorway of the hall, and the children, who had grown, and the ones who had not, and the ones who had died, and the ones who had not been born, all seemed to stand with him in that light.
+
+It was the Year Forty, and the winter came down on Eddale with four souls under its roof.
+
+Not eight. The record is exact. Somewhere in those winters, in fevers and falls and the slow subtraction of a hard land, five of the children had gone, and the hall, which had been built for six and held thirty, held only Tomry, and Edmund, who was twenty-six by then and gaunt as a spear-shaft, and Edry, with Gerbert's brass horn at her belt, and Anneth, who kept the hearth. They did not hold a feast. They did not hold a council. They sat in the evening by the long fire, four people, and listened to the wind in the thatch, and looked at the painted bridge, and said nothing, because everything had already been said.
+
+And then, in the south, something stirred. It was not a rescue. The Watcher did not send it, and could not have. In the southern meadows, between the lemon groves and the sea, a band of human wanderers, who had been walking for years, cold and sorrowful and unlooked-for, stopped by a river, and laid down their packs, and said to each other, *Here.* They built a village. They called it Northshire. They worshipped a god called Caspian, who was not Aurelan, and had no connection to the Watcher or the hall. They were strangers. But they were human, and they were close, and in the first evening of their fires, one of them looked north to the smoke of a single hearth on a far hill, and said: *Someone is alive up there.*
+
+In Eddale, with the first snow of that winter, the Watcher spoke at last. The decree was not for glory or for gain. It was peace with Bolthul. Tomry, who had no breath left to spare, looked at Edry, who had kept the brass horn ten years against this day. She went out on the steps, blew it, and spoke the words into the snow, and the long war of thirty years went out of the hall like a lamp.
+
+When she came in he was sitting heavily on the bench. Edmund brought him water. Anneth added a log to the fire.
+
+"What do we do now?" said Edmund, quietly.
+
+Tomry looked at the young man, who would one day be a general, and the two girls, one with a horn at her belt and one with ash on her hands, and the long north wall, and the six gold figures and the seventh at the end with its hand upraised. The red star, through the roof-gap, had grown no larger, but it was there.
+
+"We keep the fire," he said. "Then we see who comes."
+
+He lived until the last night of that year. He asked to be carried to the doorway, and they set him on the bench there with a blanket over his knees, facing south, as he had stood on the night of the first war. "Someone is looking at us," he said to Edmund. "I never minded it. Tell the star I held the door." Then, with his hand still open on the grey spear, he stopped. They buried him in the frozen ground beside Gereth's cairn, and when the sod was laid, three were left under the roof: Edmund, Edry and Anneth, and the horn, and the fire.
+
+*
+
+The Maker came to the table that night, and for once it did not sit across from the Watcher. It stood beside it, and they looked down together at the single small light on the hill.
+
+"Three," said the Maker.
+
+"Three."
+
+The Watcher considered the question, which it had not been asked before, and which it had no right to answer. It thought of Tomry's grey spear, and Edmund's grey eyes, and the two girls, one with a horn and one who kept the fire. It thought of the six in the grass at the first light, who had looked at the sky and found it already marked.
+
+"I think," it said, slowly, "that a people is whatever remains when the one who made it has been wrong. And that this is what remains."
+
+The Maker said nothing. But it was the amused kind of silence, or something very near it, and far above the world, in the north, a little red star kept its place.

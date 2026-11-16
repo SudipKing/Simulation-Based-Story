@@ -11,6 +11,7 @@ and opens into a parchment reader with chapters, themes and remembered progress.
 | Bow | *The Saga of Metallica and the Shattered Realm* | WorldBox: Elves vs Humans | Year 1 – 725 |
 | Crown | *The Saga of Angelica and the Sovereign Bridge* | WorldBox: Unicorns vs Humans | Year 0 – 318 |
 | Flame | *The Crucible of Three Factions* | WorldBox: Crucible of Three Factions | Year 7 – 300 |
+| Falling star | *The Covenant of Aurenvale and the Falling Star* | The Biosphere Realm (seed Gaia) | Year 0 – 200 |
 
 ## Run it
 
@@ -56,7 +57,7 @@ Or write the entry by hand in `stories/library.json`:
 }
 ```
 
-Emblems: `bow sword crown shield tower tree skull flame anvil scroll dragon moon`.
+Emblems: `bow sword crown shield tower tree skull flame anvil scroll dragon moon comet`.
 Peoples for cover art: `elf human dwarf orc croc cat skeleton pumpkin unicorn`.
 
 ### From the story markup
@@ -77,6 +78,12 @@ The Crucible chronicle is built from `stories/source/crucible/`:
 
 ```bash
 node tools/build-stories.js crucible-of-three-factions stories/source/crucible/p1.txt stories/source/crucible/p2.txt stories/source/crucible/p3.txt stories/source/crucible/p4.txt stories/source/crucible/p5.txt
+```
+
+The Aurenvale chronicle is built from `stories/source/aurenvale/` (p7 is the lore codex):
+
+```bash
+node tools/build-stories.js covenant-of-aurenvale stories/source/aurenvale/p1.txt stories/source/aurenvale/p2.txt stories/source/aurenvale/p3.txt stories/source/aurenvale/p4.txt stories/source/aurenvale/p5.txt stories/source/aurenvale/p6.txt stories/source/aurenvale/p7.txt
 ```
 
 ## About the art

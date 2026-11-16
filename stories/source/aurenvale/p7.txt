@@ -1,0 +1,152 @@
+#B APPENDIX|The Codex of Gaia|Lore, peoples, Signs and years
+
+#C The World
+
+*Gaia.* The name of the world the Watcher chose from among many. One continent in a single ocean, every shore of it reachable on foot. The Watcher refused every world that had an island in it, because in the Biosphere Realm no ship ever carried a soldier, and a people on an island could never be reached by war.
+
+*The Spine.* The chain of white peaks across the middle and north of the continent. Eddale lies in its southern foothills; the saurians of Zathixal live among its northern teeth.
+
+*The Middle Lands.* The hills, high meadows, birchwoods and pocket-jungle around Eddale. The most beautiful country in Gaia and the most dangerous. Giant spiders, basilisks, trolls and thunderbirds hunted there for two hundred years.
+
+*The Stone.* A red star that hung low in every sky from the first year and grew for two centuries. The humans called it the Falling Star, or Aurelan's Eye. It was the Maker's term made visible. It fell at the end of the Year 200.
+
+*The Ages.* Every people climbed the same ladder: Stone, Bronze, Iron, Medieval, Gunpowder, Industrial, Modern, Future. In two hundred years Gaia went from great halls of timber to glass spires, power armour and hovercraft. Aurenvale reached the Future Age in the Year 169.
+
+#C The Powers
+
+*The Maker.* The power that made the Biosphere Realm, hung the Stone in its sky, and set the terms: one people, two hundred years, prosperity and the last realm standing, or the Stone falls.
+
+*The Watcher.* The power that chose the humans of Eddale and ruled them. It named them Aurenvale, their faith the Covenant of Aurelan, their way the Oathbound way and their tongue Eddish. It ruled by one decree in every three years, spoken through the herald of Eddale.
+
+*The Covenant.* The law the Watcher laid on itself in the Year 75, when its people had no grown adult left. It would give at most one Sign in a decade, and only to its own people. It would never raise its hand against another realm. Wars would be fought by soldiers and not by gods. The Watcher kept it to the end.
+
+*The Signs.* Nine in all. The First Host, six grown soldiers from nowhere, in the Year 75: Maeora, Elric, Annwin, Edwin, Edora and Corry. The Birth-Wave of the Year 85: eight children in one season. The Second Host (100), Third Host (120), Fourth Host (130), Fifth Host (140). The Golden Age of the Year 160. The Sixth Host (170) and the Seventh (190). No Sign was given in the Years 110, 150 or 180.
+
+#C The Founding Peoples
+
+*The Kingdom of Aurenvale.* Humans of Eddale, in the central highlands. Faith: the Covenant of Aurelan, Lord of Order, whose domain is Order and Duty. Culture: the Oathbound way, of Chivalry and Scholarship. Tongue: Eddish. Villages: Eddale (Year 0), Brookgate and Roston (28, both abandoned), Brookham (49), Stanfield (91, rebelled 144). Six souls at the founding, three at the nadir in the Year 40, a hundred and thirty-five at the peak in the Year 140, a hundred and ten at the end.
+
+*The Realm of Luriel.* Elves of the east coast. Faith: the Syncretic Circle of Zephrael, the Storm Spirit, of Storm, Wind and Sky. Culture of Harmony and Grace. The greatest realm in Gaia for most of two centuries, and the largest at the end, with a hundred and twenty-one souls. Lost Serthas (103), Caelmir (118) and Ithriel (188) to rebellion. Heroes: Finara, Lirwen, Sylnor, Galwyn, Naedil, Tauriel, Taueth. Aurenvale's enemy in the Years 12 and 28, its ally in 49, 109, 157, 184 and 199.
+
+*The Hold of Dwaldun.* Dwarves of the western hills. Faith: the Contemplative Order of Khazrum the Stonefather, of Stone and Deep Delving. Culture of Deep Lore and Craftsmanship. A hundred and fifty souls in the Year 160; then Thorgar (171) and Kazgar (178) broke away and only six remained at the end. Heroes: Dwanar, Dwaur, Thrur, Gimdain, Oribur, Gimok.
+
+*The Horde of Bolthul.* Orcs of the southern clover coast. Faith: the Zealous Cult of Krukka, the Chaos-Drum, of Chaos and Frenzy. Culture of the Blood-Oath and the Ancestor-Skulls. A hundred and twenty-six souls at the height; then Kragdak (117), Vornak (127) and Durgoth (158) broke away. Heroes: Mornak, Lugmash, Gashrot, Morgrub, Karbag, Thrarot, Gashmash, Thramash, Bolbag, Rukmash, Gashbag.
+
+*The Burrow of Dobwhistle.* Gnomes of the northern forest peninsula. Faith: the Contemplative Order of Gorim Gemheart, of Gems and Hidden Wealth. Culture of Grudge-Keeping and Craftsmanship. The first realm to reach the Future Age, in the Year 134. Lost Nimnook in 135. Heroes: Fenpin, who killed the Weaver; Fizble, Quimdle, Tobkin, Bimble, Quimzap, Wobdle, Pippin, Fenny, Pipwick, Nixzap, Fenble.
+
+*The Warren of Nobmuck.* Goblins of the far western savanna. Faith: the Zealous Cult of Brogmar Bloodtide, of Bloodlust and the Hunt. Culture of the Ancestor-Skulls and the Blood-Oath. Lost Grubheap (127) and Nobstink (139). Heroes: Gnarsk, Gribbit, Skivzag, Kratrik, Rikkgob.
+
+*The Dominion of Zathixal.* Saurians of the northern peaks. Faith: the Church of Veritas, Lady of Law, of Law and Justice. Culture of Ambition and Honor. Aurenvale's first ally, in the Year 1. Its target in fifteen wars between 103 and 148, cut from thirty souls to three, and grown back to forty-eight across five hamlets: Zathixal, Zathzun, Iskthal, Thexaizzar and Raszzizzar. Heroes: Rizra, Rizor, Rizeth, Kraith, Talssa, Oxssa.
+
+#C The Later Realms
+
+*The Kingdom of Northshire.* Human wanderers who came over the horizon in the Year 40. Converted to the Covenant of Aurelan by the missionaries of Aurenvale in 66. Fell into ruin in 83.
+
+*The Hold of Dwalhalm.* Dwarf wanderers of the Year 56, of the Order of Vurna Emberforge. Generals Thrarik and Balok. Fell into ruin in 87.
+
+*The Hold of Torzul.* Dwarf wanderers of the Year 72, in the far north. Twice attacked by Aurenvale, in 88 and 94, and never taken. Heroes Dwarik, Grook and Dwagrim. Fell into ruin in 151.
+
+*The Realm of Serthas.* Elves who rose against Luriel in 103, of the Circle of Sylvaen, Spirit of Spring. Ally of Zathixal.
+
+*The Horde of Kragdak.* Orcs of Bolthul's sea-settlement, founded 37, risen 117, of the Cult of Zhulka, Mother of Ash.
+
+*The Realm of Caelmir.* Elves who rose against Luriel in 118, and were won back to Zephrael by missionaries in 125.
+
+*The Horde of Vornak.* Orcs who rose against Bolthul in 127, of the Cult of Ghorak the Skullfather, of War and Conquest.
+
+*The Warren of Grubheap.* Goblins who rose against Nobmuck in 127.
+
+*The Burrow of Nimnook.* Gnomes who rose against Dobwhistle in 135. Aurenvale's target in twelve wars from 151 to 196. Never broken. Heroes Fizfen and Wobwick.
+
+*The Warren of Nobstink.* Goblins who rose against Nobmuck in 139, of the Cult of Zhulka. They carved *Victory over Aurenvale* in the Year 160. Hero Pugsnag.
+
+*The Kingdom of Stanfield.* Aurenvale's own village, risen in the Year 144 under the hero Isbert and the new god Caspian, the Rising Crown, of Ambition and Glory. Isbert fell that year after eight victories. Stanfield fell into ruin in 147.
+
+*The Horde of Durgoth.* Bolthul's greatest city, eighty-seven strong, risen in 158. Hero Snagnak.
+
+*The Horde of Bolgor.* Rebels under Ugdush, broken from Durgoth in 165. Hero Gashlok.
+
+*The Hold of Thorgar* and *the Hold of Kazgar.* Dwarves risen against Dwaldun in 171 and 178. Heroes Fungrim, Thrli and Bofok, who killed the Weaver.
+
+*The Realm of Ithriel.* Elves risen against Luriel in 188, of the Circle of Yssa, Winter Moon. Hero Ilinor. Fell into ruin in 191.
+
+*The Warren of Snikstink.* Goblins under Wibrik, risen against Nobstink in the Year 199. The last realm ever founded in Gaia.
+
+#C The Generals of Aurenvale
+
+*Annwin* (made general in the Year 5, fell against the Weaver in 8). *Gereth* (28). *Edmund* (51), an orphan of the Year 30. *Marric* (57). *Annwin* of the First Host (75), who bore the first general's name. *Edwin* of the First Host (87), who killed Ghorr. *Corry* of the First Host (91), who killed the Pale Eye. *Henwin* (120). *Annbert* (127), who killed Viperscale and fell in 128. *Wilold* (128). *Joda* (153), general for less than a year. *Elda* the Swift (154 to 169). *Maery* (169 to 170), who killed Skyrend. *Maeric* (171 to 172), who killed Shrikka. *Isora* the Tough (172 to 176), who killed Old Bramble. *Annmund* (176 to 189), greatest of them, fallen after fifteen victories. *Isan* (190 to 200), the last.
+
+#C The Beasts
+
+*Giant spiders.* The Weaver, Silkfang, Gloomleg, Shrikka, Webmother. *Basilisks.* Viperscale, the Pale Eye, Stonegaze, Ghorr. *Trolls.* Gravelback, Old Bramble, Thudgar, Mossjaw, Stonehide. *Thunderbirds.* Stormcry, Voltwing, Skyrend. The names returned when the beasts were slain. The people of the Middle Lands said a monster's name is a crown, and the next one picks it up.
+
+#C The Last Census
+
+At the end of the Year 200, before the Stone: Luriel 121, Aurenvale 110, Dobwhistle 78, Nimnook 66, Vornak 62, Nobstink 61, Nobmuck 55, Durgoth 54, Zathixal 48, Grubheap 42, Kazgar 35, Bolthul 30, Thorgar 21, Serthas 18, Caelmir 18, Kragdak 14, Dwaldun 6, Snikstink 5, Bolgor 3. Nineteen realms. Eight hundred and forty-seven souls. After the Stone: none.
+
+#C The Years
+
+#T 0|Seven realms wake on Gaia. The humans of Eddale become the Kingdom of Aurenvale.
+#T 1|The Watcher's first decree: alliance with the Dominion of Zathixal.
+#T 4|Aurenvale joins Zathixal's holy war on the Horde of Bolthul.
+#T 5|Annwin is made the first general of Aurenvale.
+#T 8|Annwin falls against the Weaver. Aurenvale enters the Bronze Age.
+#T 9|Bolthul's holy war on Aurenvale.
+#T 12|War with the Realm of Luriel.
+#T 16|Fenpin of Dobwhistle kills the Weaver.
+#T 25|Border war with Dwaldun. Alliance with Bolthul.
+#T 27|Aurenvale fights Zathixal at Bolthul's side.
+#T 28|The Watcher's decree founds Brookgate and Roston. Iron Age. Gereth is general.
+#T 30|Roston is abandoned. Eight children and one soldier remain.
+#T 39|Bolthul attacks; Zathixal defends Aurenvale.
+#T 40|Three souls. Brookgate is abandoned. Northshire is founded.
+#T 49|Alliance with Luriel. The temple of Aurelan. Brookham is founded.
+#T 51|Edmund, an orphan of the Year 30, is made general.
+#T 56|Medieval Age. Dwalhalm is founded.
+#T 62|Viperscale is cut down.
+#T 65|The Pale Eye is ended.
+#T 66|Northshire is converted to the Covenant of Aurelan.
+#T 67|Aurenvale is bound to war on Northshire, its own faith.
+#T 72|Torzul is founded.
+#T 75|Six souls and no grown adult. The Covenant is sworn. The First Host appears.
+#T 83|Northshire falls into ruin.
+#T 85|The Birth-Wave.
+#T 87|Dwalhalm falls into ruin. Shrikka is slain. Edwin is general.
+#T 88|Aurenvale's first chosen war, on Torzul. Gunpowder Age.
+#T 91|Corry is general. Stanfield is founded.
+#T 94|Second war on Torzul.
+#T 100|The Second Host. Marry the farmer kills the Pale Eye.
+#T 103|Serthas rises against Luriel. The first war on Zathixal.
+#T 110|Roric kills Shrikka and falls.
+#T 117|Kragdak rises against Bolthul.
+#T 118|Caelmir rises against Luriel. Industrial Age.
+#T 120|Zathixal is cut to three souls. The Third Host. Modern Age.
+#T 122|Young Annmund strikes the last blow on Shrikka.
+#T 127|Vornak and Grubheap rise.
+#T 128|Annbert falls. Wilold is general.
+#T 130|The Fourth Host.
+#T 134|Dobwhistle reaches the Future Age, first of all.
+#T 135|Nimnook rises against Dobwhistle.
+#T 139|Nobstink rises against Nobmuck.
+#T 140|The Fifth Host. Aurenvale at its height: 135 souls.
+#T 144|Stanfield rises under Isbert. Isbert falls.
+#T 147|Stanfield falls into ruin.
+#T 148|The fifteenth and last war on Zathixal.
+#T 151|Torzul falls into ruin. The first war on Nimnook.
+#T 153|Joda is general and falls.
+#T 158|Durgoth rises against Bolthul.
+#T 160|The Golden Age.
+#T 165|Bolgor rises against Durgoth.
+#T 169|Future Age. Elda falls.
+#T 170|The Sixth Host. Maery falls.
+#T 171|Thorgar rises against Dwaldun.
+#T 172|Maeric falls. Isora is general.
+#T 176|Annmund is general.
+#T 178|Kazgar rises against Dwaldun.
+#T 188|Ithriel rises against Luriel.
+#T 189|Annmund falls after fifteen victories.
+#T 190|Isan is general. The Seventh Host.
+#T 191|Ithriel falls into ruin.
+#T 196|The twelfth and last war on Nimnook.
+#T 199|The Watcher's last decree: alliance with Luriel. Snikstink rises.
+#T 200|Nineteen realms, eight hundred and forty-seven souls. The Stone falls. The world ends.
